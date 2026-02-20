@@ -1,0 +1,141 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+html,body {
+height: 100%;
+background: #5a9a3a;
+}
+
+main {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100%;
+}
+
+.bg-box {
+width: 1200px;
+height: 700px;
+background-image:
+url('png/hedgedog.webp'),
+url('png/hedgedog.webp'),
+url('png/hedgedog.webp'),
+url('png/hedgedog.webp'),
+url('png/hedgedog.webp'),
+url('png/hedgedog.webp'),
+
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+url('png/lamp-png.png'),
+
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+url('png/donut.png'),
+
+url('png/pole-zelen-trava-dom-derevya.webp'),
+url('png/green-png.png');
+background-size:
+100px 100px,
+100px 100px,
+100px 100px,
+100px 100px,
+100px 100px,
+100px 100px,
+
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+60px 60px,
+
+70px 70px,
+70px 70px,
+70px 70px,
+70px 70px,
+70px 70px,
+70px 70px,
+70px 70px,
+70px 70px,
+
+580px 360px,
+
+1200px 120px;
+background-position:
+10px 80px,
+10px 180px,
+10px 280px,
+10px 380px,
+10px 480px,
+10px 580px,
+
+40px 10px,
+100px 10px,
+160px 10px,
+220px 10px,
+280px 10px,
+340px 10px,
+400px 10px,
+460px 10px,
+520px 10px,
+580px 10px,
+640px 10px,
+700px 10px,
+760px 10px,
+820px 10px,
+880px 10px,
+940px 10px,
+1000px 10px,
+1060px 10px,
+
+1100px 50px,
+1100px 130px,
+1100px 210px,
+1100px 290px,
+1100px 370px,
+1100px 450px,
+1100px 530px,
+1100px 610px,
+310px 160px,
+
+0px 580px;
+
+background-repeat: no-repeat;
+overflow: hidden;
+}
+
